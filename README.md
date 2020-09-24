@@ -1,2 +1,2 @@
 # weatherApi
-saakeeb.github.io/weatherapi/
+https://saakeeb.github.io/weatherApi/
