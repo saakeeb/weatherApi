@@ -1,5 +1,5 @@
 const key = '7b811e6177e64567ed27bc624508e692';
-const base = 'http://api.openweathermap.org/data/2.5/weather';
+const base = 'https://api.openweathermap.org/data/2.5/weather';
 
 function weatherUI(city) {
     fetch(`${base}?q=${city}&units=metric&appid=${key}`)
